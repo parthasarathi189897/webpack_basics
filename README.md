@@ -2,11 +2,11 @@
 
 #Steps To Run
 
---> Go to the folder directory in terminal.\n
---> Install all the necessery packages.\n
-	npm install \n
---> Run webpack \n
-	webpack-dev-server \n
+--> Go to the folder directory in terminal.  
+--> Install all the necessery packages.  
+	npm install   
+--> Run webpack  
+	webpack-dev-server   
 
 #Reference:
 	https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.eltll9b2t
